@@ -56,5 +56,5 @@ for i, line in enumerate(lines):
     )
 
 p.append("</svg>")
-Path("ascii-portrait.svg").write_text("\n".join(p), encoding="utf-8")
-print(f"wrote ascii-portrait.svg  ({W}x{H})")
+Path("portrait-v2.svg").write_text("\n".join(p), encoding="utf-8")
+print(f"wrote portrait-v2.svg  ({W}x{H})")
