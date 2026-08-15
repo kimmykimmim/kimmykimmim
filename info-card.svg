@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" width="490" height="300" font-family="SFMono-Regular,Consolas,monospace">
+<style>.row{opacity:0;animation:in .45s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}</style>
+<rect x="1" y="1" width="488" height="298" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<circle cx="22" cy="24" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="24" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="24" r="5" fill="#27c93f"/>
+<line x1="0" y1="46" x2="490" y2="46" stroke="#30363d"/>
+<text x="22" y="76" font-size="14" fill="#39d353" class="row" style="animation-delay:0.15s">kimmykimmim<tspan fill="#6e7681">@</tspan>github</text>
+<text x="22" y="96" font-size="12" fill="#6e7681" class="row" style="animation-delay:0.27s">----------------------------------</text>
+<text x="22" y="122" font-size="13" fill="#39d353" class="row" style="animation-delay:0.39s">Now</text>
+<text x="122" y="122" font-size="13" fill="#c9d1d9" class="row" style="animation-delay:0.39s">성균관대 소프트웨어학과 재학</text>
+<text x="22" y="152" font-size="13" fill="#39d353" class="row" style="animation-delay:0.51s">Focus</text>
+<text x="122" y="152" font-size="13" fill="#c9d1d9" class="row" style="animation-delay:0.51s">Cybersecurity / Systems</text>
+<text x="22" y="182" font-size="13" fill="#39d353" class="row" style="animation-delay:0.63s">Stack</text>
+<text x="122" y="182" font-size="13" fill="#c9d1d9" class="row" style="animation-delay:0.63s">C, Python, Linux, Networking</text>
+<text x="22" y="212" font-size="13" fill="#39d353" class="row" style="animation-delay:0.75s">Learning</text>
+<text x="122" y="212" font-size="13" fill="#c9d1d9" class="row" style="animation-delay:0.75s">CompTIA Network+, Linux Master</text>
+<text x="22" y="242" font-size="13" fill="#39d353" class="row" style="animation-delay:0.87s">Next</text>
+<text x="122" y="242" font-size="13" fill="#c9d1d9" class="row" style="animation-delay:0.87s">대학원 진학 준비</text>
+</svg>
