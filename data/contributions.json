@@ -1,9 +1,9 @@
 {
   "user": "kimmykimmim",
-  "generated": "2026-08-25",
-  "total": 66,
-  "current_streak": 11,
-  "longest_streak": 11,
+  "generated": "2026-08-26",
+  "total": 68,
+  "current_streak": 12,
+  "longest_streak": 12,
   "best_day": {
     "date": "2026-04-01",
     "level": 4,
@@ -22,7 +22,7 @@
     "2026-05": 14,
     "2026-06": 0,
     "2026-07": 3,
-    "2026-08": 27
+    "2026-08": 29
   },
   "days": [
     {
@@ -1857,6 +1857,11 @@
     },
     {
       "date": "2026-08-25",
+      "level": 2,
+      "count": 2
+    },
+    {
+      "date": "2026-08-26",
       "level": 1,
       "count": 1
     }
