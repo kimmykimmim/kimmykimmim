@@ -1,13 +1,13 @@
 {
   "user": "kimmykimmim",
-  "generated": "2026-09-04",
-  "total": 80,
-  "current_streak": 20,
-  "longest_streak": 20,
+  "generated": "2026-09-05",
+  "total": 88,
+  "current_streak": 22,
+  "longest_streak": 22,
   "best_day": {
-    "date": "2026-04-01",
+    "date": "2026-09-04",
     "level": 4,
-    "count": 6
+    "count": 7
   },
   "monthly": {
     "2025-08": 0,
@@ -23,7 +23,7 @@
     "2026-06": 0,
     "2026-07": 3,
     "2026-08": 37,
-    "2026-09": 4
+    "2026-09": 12
   },
   "days": [
     {
@@ -1023,7 +1023,7 @@
     },
     {
       "date": "2026-03-18",
-      "level": 4,
+      "level": 3,
       "count": 5
     },
     {
@@ -1338,7 +1338,7 @@
     },
     {
       "date": "2026-05-20",
-      "level": 4,
+      "level": 3,
       "count": 5
     },
     {
@@ -1808,7 +1808,7 @@
     },
     {
       "date": "2026-08-22",
-      "level": 4,
+      "level": 3,
       "count": 5
     },
     {
@@ -1873,8 +1873,13 @@
     },
     {
       "date": "2026-09-04",
-      "level": 0,
-      "count": 0
+      "level": 4,
+      "count": 7
+    },
+    {
+      "date": "2026-09-05",
+      "level": 1,
+      "count": 1
     }
   ]
 }
